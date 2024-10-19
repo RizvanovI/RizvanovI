@@ -1,32 +1,25 @@
-<h1 align="center">
+<h1>
   Привет, меня зовут Ильдар!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-</div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-        <td style="vertical-align: middle; padding-right: 10px; border: none;">
-            <img src="https://img.icons8.com/?size=100&id=RH2knxpdDpjm&format=png&color=000000" width="35px" />
-        </td>
-        <td style="vertical-align: middle; font-size: 24px; border: none;">Обо мне:</td>
-    </tr>
-</table>
+<h1>
+<img src="https://img.icons8.com/?size=100&id=RH2knxpdDpjm&format=png&color=000000" width="35px" style="margin-right: 10px;" />
+<span>Обо мне:</span>
+</h1>
 <p style="font-family: Arial, sans-serif; color: white;">
 Я начинающий тестировщик, и мой путь в тестировании только начинается, но я уже успел погрузиться в захватывающий мир тестирования программного обеспечения! В процессе обучения я освоил множество методов и инструментов тестирования, которые позволяют мне видеть и понимать, как улучшить качество программного продукта.
 Мой релевантный опыт  работы в качестве инженера-испытателя помог мне понять, как важно качественное тестирование для создания успешного продукта. Теперь я полон энтузиазма и готов применить свои знания на практике, чтобы сделать программное обеспечение более надежным и удобным для пользователей!
 </p>
 <hr>
 
-<h1 align="center" style="display: flex; align-items: center;">
+<h1>
     <img src="https://img.icons8.com/?size=100&id=DRoPTKKlVmjl&format=png&color=000000" width="35px" style="margin-right: 10px; vertical-align: middle;" />
  Как связаться со мной
 </h1>
 
-<p align="center">
+<p>
   <a target="_blank"href="https://www.linkedin.com/in/ildar-rizvanov-a929a3107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/RizvanovI"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rizvanovir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,8 +27,8 @@
 
 <hr>
 
-<h1 align="center">
-    <img src="https://img.icons8.com/?size=100&id=20544&format=png&color=000000" width="50px" style="margin-right: 10px;"/>
+<h1>
+    <img src="https://img.icons8.com/?size=100&id=20544&format=png&color=000000" width="35px" style="margin-right: 10px;"/>
     Инструменты, которые я использую в работе
 </h1>
 <div>
@@ -61,8 +54,8 @@
 </div>
 
 ---
-<h1 align="center">
-    <img src="https://img.icons8.com/?size=100&id=sokGGJe0rIX1&format=png&color=000000" width="50px" style="margin-right: 10px;"/>
+<h1>
+    <img src="https://img.icons8.com/?size=100&id=sokGGJe0rIX1&format=png&color=000000" width="35px" style="margin-right: 10px;"/>
     Тестовые артефакты
 </h1>
 
