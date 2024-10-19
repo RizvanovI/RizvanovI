@@ -63,6 +63,7 @@
  <ul>
   <li>  <a href="https://github.com/RizvanovI/theory">Теория тестирования</a>  </li>
 <li>  <a href="https://github.com/RizvanovI/design">Тест дизайн</a>  </li>
+<li>  <a href="https://github.com/RizvanovI/docs">Тестовая документация</a>  </li>
 <li>  <a href="https://github.com/RizvanovI/Web"> Тестирование веб-приложений </a>   </li>
 <li> <a href="https://github.com/RizvanovI/api">Тестирование API</a>   </li>
 <li>  <a href="https://github.com/RizvanovI/database?tab=readme-ov-file">Работа с данными</a>  </li>
