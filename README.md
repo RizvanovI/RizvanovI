@@ -9,21 +9,26 @@
 <span>Обо мне:</span>
 </h1>
 <p style="font-family: Arial, sans-serif; color: white;">
-Я начинающий тестировщик, и мой путь в тестировании только начинается, но я уже успел погрузиться в захватывающий мир тестирования программного обеспечения! В процессе обучения я освоил множество методов и инструментов тестирования, которые позволяют мне видеть и понимать, как улучшить качество программного продукта.
-Мой релевантный опыт  работы в качестве инженера-испытателя помог мне понять, как важно качественное тестирование для создания успешного продукта. Теперь я полон энтузиазма и готов применить свои знания на практике, чтобы сделать программное обеспечение более надежным и удобным для пользователей!
+Я начинающий QA engineer, и мой путь в этой области только начинается. Тем не менее, опыт работы в качестве инженера-испытателя позволил мне осознать важность тщательного тестирования для успешной разработки надежных программных решений. Я стремлюсь к постоянному обучению и развитию, чтобы внести значимый вклад в команду и помочь повысить уровень качества программных продуктов!
+  
+  ## :page_with_curl: Ознакомиться с моим [резюме](https://github.com/RizvanovI/Resume/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 </p>
 <hr>
 
-<h1>
-    <img src="https://img.icons8.com/?size=100&id=DRoPTKKlVmjl&format=png&color=000000" width="35px" style="margin-right: 10px; vertical-align: middle;" />
- Как связаться со мной
-</h1>
+
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/ildar-rizvanov-a929a3107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/RizvanovI"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rizvanovir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+<h1>
+<img src="https://img.icons8.com/?size=100&id=CPookyWndobk&format=png&color=000000" width="35px" style="margin-right: 10px; vertical-align: middle;" />
+<span>Мое резюме</span>
+</h1>
+
 
 <hr>
 
