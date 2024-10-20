@@ -15,6 +15,10 @@
 </p>
 <hr>
 
+<h1>
+    <img src="https://img.icons8.com/?size=100&id=DRoPTKKlVmjl&format=png&color=000000" width="35px" style="margin-right: 10px; vertical-align: middle;" />
+ Как связаться со мной
+</h1>
 
 
 <p>
@@ -22,13 +26,6 @@
   <a target="_blank"href="https://t.me/RizvanovI"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rizvanovir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<h1>
-<img src="https://img.icons8.com/?size=100&id=CPookyWndobk&format=png&color=000000" width="35px" style="margin-right: 10px; vertical-align: middle;" />
-<span>Мое резюме</span>
-</h1>
-
 
 <hr>
 
